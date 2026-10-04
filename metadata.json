@@ -1,0 +1,6 @@
+{
+  "name": "PHP Practical Lab & Notes Portal",
+  "description": "Student authentication portal and interactive PHP practical file dashboard featuring For Loop, While Loop, Do-While Loop, Factorial programs, and Viva notes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
